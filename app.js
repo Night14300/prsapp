@@ -6,7 +6,7 @@ app.get('/', (req, res) => {
 });
 
 app.get('/checkHighScore', (req, res) => {
-  res.send('7');
+  res.send('8');
 });
 
 
