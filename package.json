@@ -1,0 +1,20 @@
+{
+  "name": "prsapp",
+  "version": "1.0.0",
+  "description": "prs battle royale",
+  "main": "app.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Night14300/prsapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Night14300/prsapp/issues"
+  },
+  "homepage": "https://github.com/Night14300/prsapp#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
